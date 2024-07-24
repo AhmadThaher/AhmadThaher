@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m currently training at OppoTrain
+I’m currently training at OppoTrain ...
 I'm a computer Science student, passionate about front-end and UI/UX, excited to learn more and increase my experience
 <!--
 **AhmadThaher/AhmadThaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
